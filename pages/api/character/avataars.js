@@ -1,4 +1,4 @@
-export default function avataaars(rep, res){
+export default function avataaars(req, res){
     res.json({
             clothing: ['blazerAndShirt' , 'blazerAndSweater' , 'collarAndSweater' , 'graphicShirt' , 'hoodie' , 'overall' , 'shirtCrewNeck' , 'shirtScoopNeck' , 'shirtVNeck'],
             mouth: ['concerned' , 'default' , 'disbelief' , 'eating' , 'grimace' , 'sad' , 'screamOpen' , 'serious' , 'smile' , 'tongue' , 'twinkle' , 'vomit'],

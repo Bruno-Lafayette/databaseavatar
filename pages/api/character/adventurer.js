@@ -1,4 +1,4 @@
-export default function adventurer(rep, res){
+export default function adventurer(req, res){
     res.json ({
         eyes: ['variant26' , 'variant25' , 'variant24' , 'variant23' , 'variant22' , 'variant21' , 'variant20' , 'variant19' , 'variant18' , 'variant17' , 'variant16' , 'variant15' , 'variant14' , 'variant13' , 'variant12' , 'variant11' , 'variant10' , 'variant09' , 'variant08' , 'variant07' , 'variant06' , 'variant05' , 'variant04' , 'variant03' , 'variant02' , 'variant01'],
         eyebrows: ['variant10' , 'variant09' , 'variant08' , 'variant07' , 'variant06' , 'variant05' , 'variant04' , 'variant03' , 'variant02' , 'variant01' , 'variant15' , 'variant14' , 'variant13' , 'variant12' , 'variant11'],
