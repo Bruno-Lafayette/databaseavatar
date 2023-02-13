@@ -6,5 +6,6 @@ export default function bottts(req, res){
     mouth: ['bite' , 'diagram' , 'grill01' , 'grill02' , 'grill03' , 'smile01' , 'smile02' , 'square01' , 'square02'],
     eyes: ['bulging' , 'dizzy' , 'eva' , 'frame1' , 'frame2' , 'glow' , 'happy' , 'hearts' , 'robocop' , 'round' , 'roundFrame01' , 'roundFrame02' , 'sensor' , 'shade01'],
     texture: ['camo01' , 'camo02' , 'circuits' , 'dirty01' , 'dirty02' , 'dots' , 'grunge01' , 'grunge02'],
+    baseColor:["00acc1","fdd835","d81b60", "8e24aa","00897b"]
 })
 }
