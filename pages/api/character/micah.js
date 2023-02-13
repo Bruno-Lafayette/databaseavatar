@@ -1,4 +1,4 @@
-export default function micah(res,rep) {
+export default function micah(rep, res) {
 
     res.json({
 

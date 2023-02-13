@@ -1,4 +1,4 @@
-export default function identicon (res,rep){
+export default function identicon (rep, res){
     res.json({
         row1: ['xooox' , 'xxoxx' , 'xoxox' , 'oxxxo' , 'xxxxx' , 'oxoxo' , 'ooxoo'],
         row2: ['xooox' , 'xxoxx' , 'xoxox' , 'oxxxo' , 'xxxxx' , 'oxoxo' , 'ooxoo'],
