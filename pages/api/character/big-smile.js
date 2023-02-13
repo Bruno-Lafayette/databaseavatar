@@ -1,4 +1,4 @@
-export default function bigSmile(req, res){
+export default function big-smile(req, res){
     res.json({
             mouth: ['openedSmile' , 'unimpressed' , 'gapSmile' , 'openSad' , 'teethSmile' , 'awkwardSmile' , 'braces' , 'kawaii'],
             eyes: ['cheery' , 'normal' , 'confused' , 'starstruck' , 'winking' , 'sleepy' , 'sad' , 'angry'],
